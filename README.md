@@ -3,7 +3,8 @@
 ## Cloud Honeynet / SOC — by Andon
 
 ---
-<img
+<img src="https://camo.githubusercontent.com/06529f81b6131febbcf1feaec47f36658a28e2e383451f99af7ada47cb5afd38/68747470733a2f2f696d6775722e636f6d2f546c75645848362e6a7067" alt="Cloud Honeynet / SOC"/>![image](https://github.com/user-attachments/assets/2f38616c-62fb-47ee-852d-b58b58e521fe)
+
 
 ### 📘 Introduction
 
