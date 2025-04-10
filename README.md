@@ -30,6 +30,7 @@ The environment is used in tandem with **Microsoft Sentinel** to build attack ma
 ### 🏗️ Architecture Overview
 
 #### Before Hardening
+![Architecture Diagram](https://github.com/user-attachments/assets/your-image-ID.png)
 
 - Open NSGs and firewalls
 - All public endpoints
