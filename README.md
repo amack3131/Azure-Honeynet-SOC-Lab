@@ -30,7 +30,8 @@ The environment is used in tandem with **Microsoft Sentinel** to build attack ma
 ### 🏗️ Architecture Overview
 
 #### Before Hardening
-<img src="https://github.com/user-attachments/assets/2f38616c-62fb-47ee-852d-b58b58e521fe" alt="Cloud Honeynet / SOC" width="600"/>
+<img src="https://github.com/user-attachments/assets/your-image-ID.png" alt="Architecture Diagram" width="600"/>
+
 
 
 - Open NSGs and firewalls
