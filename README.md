@@ -30,7 +30,7 @@ The environment is used in tandem with **Microsoft Sentinel** to build attack ma
 ### 🏗️ Architecture Overview
 
 #### Before Hardening
-<img src="https://github.com/user-attachments/assets/your-image-ID.png" alt="Architecture Diagram" width="600"/>
+
 
 
 
